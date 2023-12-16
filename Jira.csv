@@ -7,7 +7,7 @@ Story;EDP-2606;1111179;Cancelamento de case - Modal;Concluída;1.0;GMUD0096679;J
 Story;EDP-2599;1110821;Justificativa - Modal (Home Portal);Concluída;1.0;GMUD0096679;Jornada_Tech;Resolvido;12/dez/23 5:41 PM;JTSP17
 Story;EDP-2598;1110820;Motivos de Cancelamento - Tela (Home Portal);Concluída;2.0;GMUD0096679;Jornada_Tech;Resolvido;12/dez/23 5:41 PM;JTSP17
 Story;EDP-2597;1110817;Inserir no menu de Cadastro a opção de Motivos de Cancelamento;Concluída;1.0;GMUD0096679;Jornada_Tech;Resolvido;12/dez/23 5:41 PM;JTSP17
-Bug;EDP-2596;1110623;Rodapé dos cases antigos (V1);Concluída;2.0;Jornada_Tech;;Resolvido;22/nov/23 12:00 PM;EDP/JTSP17
+Bug;EDP-2596;1110623;Rodapé dos cases antigos (V1);Concluída;2.0;Jornada_Tech;;Resolvido;22/nov/23 12:00 PM;JTSP17
 Story;EDP-2590;1109881;Motor de Regras GMUD Automática;Concluída;5.0;GMUD0096679;Jornada_Tech;Resolvido;12/dez/23 5:41 PM;JTSP17
 Story;EDP-2589;1109880;Tela Tribos Validação GMUD Automatica;Concluída;2.0;GMUD0096679;Jornada_Tech;Resolvido;12/dez/23 5:41 PM;JTSP17
 Story;EDP-2585;1109806;API GMUD Automatica;Concluída;2.0;GMUD0096679;Jornada_Tech;Resolvido;12/dez/23 5:41 PM;JTSP17
