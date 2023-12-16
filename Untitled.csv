@@ -1,4 +1,4 @@
-Tipo de Item;Chave do item;ID do item;Resumo;Situação;Campo personalizado (Story Points);Rótulos;Rótulos;Resolução;Resolvido;Campo personalizado (Sprint (label))
+TipoItem;ChaveItem;IDItem;Resumo;Situacao;StoryPoints;Rotulos;Rotulos;Resolucao;Resolvido;Sprint
 Story;EDP-2725;1119653;"Criar operação na API de GMUD auto para receber o número da GMUD, gravar no sub-case e concluir.";Concluída;1.0;GMUD0096679;Jornada_Tech;Resolvido;12/dez/23 5:41 PM;JTSP17
 Story;EDP-2724;1119652;Incluir códigos dos cases na mensagem de retorno da API de GMUD auto;Concluída;1.0;GMUD0096679;Jornada_Tech;Resolvido;12/dez/23 5:41 PM;JTSP17
 Bug;EDP-2609;1111438;"O radio button não está com a opção ""Feito"" como default e não permite a alteração dos cases antigos.";Concluída;1.0;Jornada_Tech;;Resolvido;22/nov/23 10:47 AM;JTSP17
