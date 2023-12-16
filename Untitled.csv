@@ -1,0 +1,123 @@
+Tipo de Item;Chave do item;ID do item;Resumo;Situação;Campo personalizado (Story Points);Rótulos;Rótulos;Resolução;Resolvido;Campo personalizado (Sprint (label))
+Story;EDP-2725;1119653;"Criar operação na API de GMUD auto para receber o número da GMUD, gravar no sub-case e concluir.";Concluída;1.0;GMUD0096679;Jornada_Tech;Resolvido;12/dez/23 5:41 PM;JTSP17
+Story;EDP-2724;1119652;Incluir códigos dos cases na mensagem de retorno da API de GMUD auto;Concluída;1.0;GMUD0096679;Jornada_Tech;Resolvido;12/dez/23 5:41 PM;JTSP17
+Bug;EDP-2609;1111438;"O radio button não está com a opção ""Feito"" como default e não permite a alteração dos cases antigos.";Concluída;1.0;Jornada_Tech;;Resolvido;22/nov/23 10:47 AM;JTSP17
+Bug;EDP-2608;1111436;Nome feature não está realizando quebra de linha;Concluída;1.0;Jornada_Tech;;Resolvido;22/nov/23 10:35 AM;JTSP17
+Story;EDP-2606;1111179;Cancelamento de case - Modal;Concluída;1.0;GMUD0096679;Jornada_Tech;Resolvido;12/dez/23 5:41 PM;JTSP17
+Story;EDP-2599;1110821;Justificativa - Modal (Home Portal);Concluída;1.0;GMUD0096679;Jornada_Tech;Resolvido;12/dez/23 5:41 PM;JTSP17
+Story;EDP-2598;1110820;Motivos de Cancelamento - Tela (Home Portal);Concluída;2.0;GMUD0096679;Jornada_Tech;Resolvido;12/dez/23 5:41 PM;JTSP17
+Story;EDP-2597;1110817;Inserir no menu de Cadastro a opção de Motivos de Cancelamento;Concluída;1.0;GMUD0096679;Jornada_Tech;Resolvido;12/dez/23 5:41 PM;JTSP17
+Bug;EDP-2596;1110623;Rodapé dos cases antigos (V1);Concluída;2.0;Jornada_Tech;;Resolvido;22/nov/23 12:00 PM;EDP/JTSP17
+Story;EDP-2590;1109881;Motor de Regras GMUD Automática;Concluída;5.0;GMUD0096679;Jornada_Tech;Resolvido;12/dez/23 5:41 PM;JTSP17
+Story;EDP-2589;1109880;Tela Tribos Validação GMUD Automatica;Concluída;2.0;GMUD0096679;Jornada_Tech;Resolvido;12/dez/23 5:41 PM;JTSP17
+Story;EDP-2585;1109806;API GMUD Automatica;Concluída;2.0;GMUD0096679;Jornada_Tech;Resolvido;12/dez/23 5:41 PM;JTSP17
+Story;EDP-2523;1102395;Tooltip no campo Grupo de Trabalho;Concluída;2.0;Jornada_Tech;;Resolvido;28/nov/23 9:27 AM;JTSP17
+Story;EDP-2521;1102332;Pesquisa Gestão de Casos;Concluída;3.0;Jornada_Tech;;Resolvido;28/nov/23 9:27 AM;JTSP17
+Story;EDP-2493;1101913;Obrigatoriedade de campo na Aprovação do ANS e ASW;Concluída;1.0;Jornada_Tech;;Resolvido;28/nov/23 9:27 AM;JTSP17
+Story;EDP-2492;1101910;Ajuste Campos Kronos;Concluída;3.0;Jornada_Tech;;Resolvido;28/nov/23 9:27 AM;JTSP17
+Story;EDP-2491;1101670;Alteração no campo de GMUD;Concluída;2.0;Jornada_Tech;;Resolvido;28/nov/23 9:27 AM;JTSP17
+Story;EDP-2490;1101668;Validação Campos Kronos;Concluída;1.0;Jornada_Tech;;Resolvido;28/nov/23 9:27 AM;JTSP17
+Story;EDP-2465;1098653;Incremento de contagem Workdays;Concluída;2.0;GMUD0093983;Jornada_Tech;Resolvido;08/nov/23 10:37 AM;JTSP15
+Story;EDP-2459;1098620;Incluir a nomenclatura completa do ANS e ASW;Concluída;1.0;Jornada_Tech;;Resolvido;28/nov/23 9:27 AM;JTSP17
+Story;EDP-2452;1097898;Quebra do nome da feature na label do case;Concluída;1.0;Jornada_Tech;;Resolvido;28/nov/23 9:27 AM;JTSP17
+Story;EDP-2451;1097890;Ajustes no Cadastro Jornada Tech;Concluída;1.0;Jornada_Tech;;Resolvido;28/nov/23 9:27 AM;JTSP17
+Story;EDP-2439;1096410;"Inclusão de Status na Query do campo ""Fórum de Arquitetura""";Concluída;1.0;GMUD0093983;Jornada_Tech;Resolvido;08/nov/23 10:37 AM;JTSP15
+Story;EDP-2434;1093629;Correção de permissão de aprovadores;Concluída;5.0;Jornada_Tech;;Resolvido;28/nov/23 9:27 AM;JTSP17
+Bug;EDP-2408;1086434;Ausência de Validação ao Concluir a Feature;Concluída;3.0;Jornada_Tech;;Resolvido;26/out/23 9:19 AM;JTSP15
+Story;EDP-2392;1085247;Inclusão no rodapé da aba de Débitos técnicos nos cases filhos ;Concluída;2.0;GMUD0093983;Jornada_Tech;Resolvido;08/nov/23 10:37 AM;JTSP15
+Story;EDP-2390;1084970;Mensagem de Alerta ao preencher de forma manual os dados da feature;Concluída;5.0;GMUD0093983;Jornada_Tech;Resolvido;08/nov/23 10:37 AM;JTSP15
+Story;EDP-2389;1084946;Alteração da label do campo na etapa de Setup;Concluída;1.0;GMUD0093983;Jornada_Tech;Resolvido;08/nov/23 10:37 AM;JTSP15
+Story;EDP-2388;1084907;Inclusão no rodapé de Aprovações ;Concluída;1.0;GMUD0093983;Jornada_Tech;Resolvido;08/nov/23 10:37 AM;JTSP15
+Story;EDP-2349;1084410;Inclusão de combobox na Aprovação do ANS;Concluída;1.0;GMUD0093983;Jornada_Tech;Resolvido;08/nov/23 10:37 AM;JTSP15
+Story;EDP-2348;1084187;Categorização Fórum de Arquitetura - Modal (Home Portal);Concluída;2.0;GMUD0093983;Jornada_Tech;Resolvido;08/nov/23 10:37 AM;JTSP15
+Story;EDP-2347;1084184;Categorização Fórum de Arquitetura - Tela (Home Portal);Concluída;2.0;GMUD0093983;Jornada_Tech;Resolvido;08/nov/23 10:37 AM;JTSP15
+Story;EDP-2346;1084180;Criação de Workgroup ;Concluída;1.0;GMUD0093983;Jornada_Tech;Resolvido;08/nov/23 10:37 AM;JTSP15
+Story;EDP-2345;1084178;Inserir no menu de Cadastro a opção de Categorização de Fórum de Arquitetura;Concluída;1.0;GMUD0093983;Jornada_Tech;Resolvido;08/nov/23 10:37 AM;JTSP15
+Story;EDP-2261;1077328;Inclusão de obrigatoriedade na combobox do campo PDI;Concluída;;Jornada_Tech;;Resolvido;10/out/23 9:53 AM;JTSP13
+Story;EDP-2260;1077320;Inclusão de obrigatoriedade do campo Fórum de Arquitetura;Concluída;;Jornada_Tech;;Resolvido;10/out/23 9:53 AM;JTSP13
+Bug;EDP-2258;1076647;Quebra de linha nas telas e grids do fluxo;Concluída;;Jornada_Tech;;Resolvido;06/out/23 4:23 PM;JTSP13
+Story;EDP-2256;1075349;"Ocultar a opção ""Editar"" dos cases filhos";Concluída;1.0;Jornada_Tech;;Resolvido;26/out/23 2:07 PM;JTSP15
+Story;EDP-2080;1066030;Bloquear lançamento duplicado;Concluída;2.0;Jornada_Tech;;Resolvido;10/out/23 9:53 AM;JTSP13
+Story;EDP-2079;1066021;Calendário de feriados nacionais (WorkDays);Concluída;1.0;Jornada_Tech;;Resolvido;10/out/23 9:53 AM;JTSP13
+Story;EDP-2074;1065196;Execução - Tela;Concluída;3.0;Jornada_Tech;;Resolvido;26/out/23 2:07 PM;JTSP15
+Story;EDP-2073;1065142;Incluir Label com o título da entrega nos formulários de cada etapa dos ciclos de desenvolvimento;Concluída;1.0;Jornada_Tech;;Resolvido;26/out/23 2:07 PM;JTSP15
+Story;EDP-2071;1064971;Exibir o estágio de Execução no rodapé com o histórico dos ciclos de desenvolvimento no fluxo principal (case pai);Concluída;1.0;Jornada_Tech;;Resolvido;26/out/23 2:07 PM;JTSP15
+Story;EDP-2069;1064636;Extração BIX para JT v2;Concluída;1.0;Jornada_Tech;;Resolvido;26/out/23 2:07 PM;JTSP15
+Story;EDP-2068;1064620;Exibir no rodapé do Ciclo de Desenvolvimento o histórico do fluxo principal (case pai);Concluída;1.0;Jornada_Tech;;Resolvido;26/out/23 2:07 PM;JTSP15
+Story;EDP-2067;1064615;Migrar instâncias da V1 para V2;Concluída;2.0;Jornada_Tech;;Resolvido;26/out/23 2:07 PM;JTSP15
+Story;EDP-2066;1064609;Gestão de Casos Jornada Tech;Concluída;3.0;Jornada_Tech;;Resolvido;26/out/23 2:07 PM;JTSP15
+Story;EDP-2065;1064602;Alterar Fluxo Principal (Case Design);Concluída;1.0;Jornada_Tech;;Resolvido;26/out/23 2:06 PM;JTSP15
+Bug;EDP-1963;1060415;Informações da Feature não estão aparecendo no rodapé;Concluída;;Jornada_Tech;;Resolvido;19/set/23 9:38 AM;JTSP11
+Bug;EDP-1814;1044881;Formatação dos campos Radio Button;Concluída;;Jornada_Tech;;Resolvido;24/ago/23 11:22 AM;JTSP10
+Story;EDP-1812;1044863;Incremento de Issue Type em query JIRA;Concluída;;Jornada_Tech;;Resolvido;25/set/23 9:37 AM;Jornada_Tech_-_S12
+Story;EDP-1753;1039337;Concatenação de variáveis Feature;Concluída;2.0;Jornada_Tech;;Resolvido;14/set/23 11:31 AM;Jornada_Tech_-_S11
+Story;EDP-1752;1039332;Incremental dados;Concluída;1.0;Jornada_Tech;;Resolvido;14/set/23 11:31 AM;Jornada_Tech_-_S11
+Story;EDP-1751;1039331;Inclusão de Débito Técnico;Concluída;3.0;Jornada_Tech;;Resolvido;14/set/23 11:30 AM;Jornada_Tech_-_S11
+Story;EDP-1749;1039322;Novos campos  Operações;Concluída;1.0;Jornada_Tech;;Resolvido;14/set/23 11:30 AM;Jornada_Tech_-_S11
+Story;EDP-1711;1034716;Inclusão dos campos Kronos no rodapé de cada etapa;Concluída;2.0;Jornada_Tech;;Resolvido;14/set/23 11:31 AM;JTSP11
+Story;EDP-1700;1033483;Ocultar campos em Refinamento;Concluída;1.0;Jornada_Tech;;Resolvido;14/ago/23 5:04 PM;Jornada_Tech_-_S09
+Story;EDP-1655;1029022;Inclusão de função Delete em Cadastro Squad;Concluída;3.0;Jornada_Tech;;Resolvido;14/ago/23 5:03 PM;Jornada_Tech_-_S09
+Story;EDP-1653;1028001;Alterações Campos Kronos;Concluída;1.0;Jornada_Tech;;Resolvido;14/ago/23 5:03 PM;Jornada_Tech_-_S09
+Story;EDP-1650;1027106;Remoção da Ordenação Lista Squad;Concluída;1.0;Jornada_Tech;;Resolvido;14/ago/23 5:04 PM;Jornada_Tech_-_S09
+Story;EDP-1649;1026862;Governança Jornada Tech - Revisão Documentação;Concluída;5.0;Jornada_Tech;;Resolvido;24/out/23 11:39 AM;JTSP15
+Story;EDP-1647;1026860;Alterações do Campo Desenhar Arquitetura;Concluída;2.0;Jornada_Tech;;Resolvido;14/ago/23 5:03 PM;Jornada_Tech_-_S09
+Story;EDP-1646;1026858;Alteração de Label;Concluída;1.0;Jornada_Tech;;Resolvido;14/ago/23 5:04 PM;Jornada_Tech_-_S09
+Story;EDP-1645;1026856;Alteração de Campo Form Feature e Aprovação;Concluída;3.0;Jornada_Tech;;Resolvido;14/ago/23 5:03 PM;Jornada_Tech_-_S09
+Story;EDP-1579;1023427;Inclusão de Issue Type em query;Concluída;1.0;Jornada_Tech;;Resolvido;14/ago/23 5:03 PM;Jornada_Tech_-_S09
+Bug;EDP-1553;1018311;Falha na execução de atribuição em Produção;Concluída;;Jornada_Tech;;Resolvido;14/ago/23 5:03 PM;JTSP9
+Story;EDP-1537;1014916;Inclusão do nome da Feature na Lista de Tarefas;Concluída;3.0;Jornada_Tech;;Resolvido;14/ago/23 5:02 PM;JTSP9
+Story;EDP-1536;1014907;Alteração da propriedade de campos Radio Button;Concluída;2.0;Jornada_Tech;;Resolvido;14/ago/23 5:03 PM;JTSP9
+Story;EDP-1535;1014902;Validação de Squad;Concluída;1.0;Jornada_Tech;;Resolvido;14/ago/23 5:03 PM;JTSP9
+Story;EDP-1453;1013340;Adição de obrigatoriedade de campo;Concluída;1.0;Jornada_Tech;;Resolvido;14/ago/23 5:03 PM;JTSP9
+Story;EDP-1452;1013339;Otimização no processo Kronos;Concluída;2.0;Jornada_Tech;;Resolvido;14/ago/23 5:03 PM;JTSP9
+Story;EDP-1451;1013338;Cadastro Feature automático;Concluída;8.0;Jornada_Tech;;Resolvido;14/set/23 11:30 AM;Jornada_Tech_-_S11
+Story;EDP-1432;1011362;Inclusão de campos em Refinamento;Concluída;1.0;Jornada_Tech;;Resolvido;14/ago/23 5:03 PM;JTSP9
+Story;EDP-1429;1011332;Alterar Arquiteto de Software;Concluída;1.0;Jornada_Tech;;Resolvido;14/ago/23 5:03 PM;Jornada_Tech_-_S09
+Story;EDP-1428;1011330;Integração Fórum Arquitetura JIRA;Concluída;5.0;Jornada_Tech;;Resolvido;14/ago/23 5:03 PM;Jornada_Tech_-_S09
+Story;EDP-1299;1000862;Campo PDI - Integração com o Jira;Concluída;5.0;Jornada_Tech;;Resolvido;20/jul/23 9:51 AM;JTSP8
+Story;EDP-1298;1000861;Ocultar botão de Edit;Concluída;1.0;Jornada_Tech;;Resolvido;20/jul/23 9:51 AM;JTSP8
+Story;EDP-1297;1000859;Criação de campos novos;Concluída;1.0;Jornada_Tech;;Resolvido;20/jul/23 9:51 AM;JTSP8
+Story;EDP-1296;1000853;Reatribuição de tarefas;Concluída;5.0;Jornada_Tech;;Resolvido;20/jul/23 9:51 AM;JTSP8
+Story;EDP-1295;1000852;Remoção de campos obrigatórios na edição e cadastro de squad;Concluída;1.0;Jornada_Tech;;Resolvido;20/jul/23 9:51 AM;JTSP8
+Story;EDP-1294;1000851;Voltar etapa no fluxo;Concluída;3.0;Jornada_Tech;;Resolvido;20/jul/23 9:49 AM;JTSP8
+Bug;EDP-1222;991531;Aprovação de Operações aparecendo na etapa incorreta do fluxo;Concluída;;Jornada_Tech;;Resolvido;23/jun/23 9:33 AM;JTSP6
+Bug;EDP-1221;991528;Erro lock ao tentar editar um campo na Squad;Concluída;;Jornada_Tech;;Resolvido;23/jun/23 9:32 AM;JTSP6
+Bug;EDP-1220;991523;Informações da feature não estão aparecendo no rodapé;Concluída;;Jornada_Tech;;Resolvido;23/jun/23 9:32 AM;JTSP6
+Bug;EDP-1219;991352;Tribo inativa aparecendo no PEGA;Concluída;;Jornada_Tech;;Resolvido;20/jul/23 9:48 AM;JTSP8
+Bug;EDP-1218;991337;Squad não aparece para vincular cadastro da Feature;Concluída;;Jornada_Tech;;Resolvido;20/jul/23 9:48 AM;JTSP8
+Story;EDP-1128;982958;Alteração de Campos Form Squad;Concluída;3.0;Jornada_Tech;;Resolvido;19/jun/23 9:30 AM;Jornada_Tech_-_S05
+Story;EDP-1097;982059;Coleta de evidências GMUD PRD;Concluída;;Jornada_Tech;;Resolvido;09/jun/23 9:14 AM;Escritório_de_Processos_-_S26
+Story;EDP-1052;975863;Remover alteração de estágio;Concluída;1.0;Jornada_Tech;;Resolvido;16/jun/23 2:06 PM;Jornada_Tech_-_S05
+Story;EDP-993;971287;Notificação de vencimento do SLA;Concluída;5.0;Jornada_Tech;;Resolvido;20/jul/23 9:48 AM;JTSP8
+Story;EDP-992;971279;Incluir papel em Grid Aprovações;Concluída;1.0;Jornada_Tech;;Resolvido;22/jun/23 9:41 AM;JTSP6
+Story;EDP-990;971274;Nível de Aprovação AS;Concluída;1.0;Jornada_Tech;;Resolvido;22/jun/23 9:40 AM;JTSP6
+Story;EDP-989;971262;Inclusão de novos Campos;Concluída;1.0;Jornada_Tech;;Resolvido;22/jun/23 9:40 AM;JTSP6
+Story;EDP-986;971252;Filtro Cadastro Squad;Concluída;1.0;Jornada_Tech;;Resolvido;22/jun/23 9:40 AM;JTSP6
+Story;EDP-943;970114;Deletar Torre;Concluída;2.0;Jornada_Tech;;Resolvido;19/jun/23 9:30 AM;Jornada_Tech_-_S05
+Story;EDP-942;970108;Consulta Issue Squad JIRA;Concluída;1.0;Jornada_Tech;;Resolvido;19/jun/23 9:31 AM;Jornada_Tech_-_S05
+Story;EDP-941;970107;Consulta Issue Tribo JIRA;Concluída;2.0;Jornada_Tech;;Resolvido;19/jun/23 9:31 AM;Jornada_Tech_-_S05
+Story;EDP-940;970105;Consulta Tribo JIRA;Concluída;1.0;Jornada_Tech;;Resolvido;19/jun/23 9:34 AM;Jornada_Tech_-_S05
+Story;EDP-939;970103;Consulta Feature JIRA;Concluída;1.0;Jornada_Tech;;Resolvido;19/jun/23 9:00 AM;Jornada_Tech_-_S05
+Story;EDP-938;969992;Consulta Business Epic JIRA;Concluída;1.0;Jornada_Tech;;Resolvido;19/jun/23 8:57 AM;Jornada_Tech_-_S05
+Story;EDP-937;969990;Consulta Iniciativa JIRA;Concluída;1.0;Jornada_Tech;;Resolvido;16/jun/23 2:09 PM;Jornada_Tech_-_S05
+Story;EDP-932;969794;Design Feature Form;Concluída;2.0;Jornada_Tech;;Resolvido;19/jun/23 9:31 AM;Jornada_Tech_-_S05
+Story;EDP-931;969778;Inclusão de Operações GATE4;Concluída;2.0;Jornada_Tech;;Resolvido;19/jun/23 9:30 AM;Jornada_Tech_-_S05
+Story;EDP-930;969772;Conectores Issue JIRA;Concluída;1.0;Jornada_Tech;;Resolvido;19/jun/23 9:30 AM;Jornada_Tech_-_S05
+Story;EDP-929;969770;Conectores Search JIRA;Concluída;1.0;Jornada_Tech;;Resolvido;19/jun/23 8:58 AM;Jornada_Tech_-_S05
+Story;EDP-904;968011;Cancelamento do Workflow;Concluída;2.0;Jornada_Tech;;Resolvido;16/jun/23 2:05 PM;Jornada_Tech_-_S05
+Story;EDP-869;961401;Coleta de evidências GMUD PRD;Concluída;;Jornada_Tech;;Resolvido;22/mai/23 3:42 PM;Escritório_de_Processos_-_S25
+Story;EDP-569;883521;Portfólio Review e Big Room;Concluída;2.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;Escritório_de_Processos_-_S18
+Story;EDP-554;880362;Teste e Homologação;Concluída;2.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;Escritório_de_Processos_-_S18
+Story;EDP-552;880355;Desenvolvimento;Concluída;2.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;Escritório_de_Processos_-_S18
+Story;EDP-551;880352;Refinamento;Concluída;2.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;Escritório_de_Processos_-_S18
+Story;EDP-550;880343;Setup;Concluída;2.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;Escritório_de_Processos_-_S18
+Story;EDP-549;880339;Aprovação;Concluída;5.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;Escritório_de_Processos_-_S18
+Story;EDP-548;880332;Discovery e Design;Concluída;2.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;Escritório_de_Processos_-_S18
+Story;EDP-547;880330;Create;Concluída;3.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;Escritório_de_Processos_-_S18
+Story;EDP-502;854891;Listar cases;Concluída;;Jornada_Tech;;Resolvido;04/jan/23 2:28 PM;Escritório_de_Processos_-_S16
+Story;EDP-501;854870;Implantar;Concluída;;Jornada_Tech;;Resolvido;04/jan/23 2:28 PM;Escritório_de_Processos_-_S16
+Story;EDP-500;854868;Aprovar arquitetura implantação;Concluída;;Jornada_Tech;;Resolvido;04/jan/23 2:28 PM;Escritório_de_Processos_-_S16
+Story;EDP-499;854866;Desenvolver e testar;Concluída;;Jornada_Tech;;Resolvido;04/jan/23 2:28 PM;Escritório_de_Processos_-_S16
+Story;EDP-498;854862;Desenhar arquitetura;Concluída;;Jornada_Tech;;Resolvido;04/jan/23 2:28 PM;Escritório_de_Processos_-_S16
+Story;EDP-497;854858;Planejar feature;Concluída;;Jornada_Tech;;Resolvido;04/jan/23 2:28 PM;Escritório_de_Processos_-_S16
+Story;EDP-496;854857;Cadastrar feature;Concluída;;Jornada_Tech;;Resolvido;04/jan/23 2:28 PM;Escritório_de_Processos_-_S16
