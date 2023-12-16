@@ -105,19 +105,19 @@ Story;EDP-931;969778;Inclusão de Operações GATE4;Concluída;2.0;Jornada_Tech;
 Story;EDP-930;969772;Conectores Issue JIRA;Concluída;1.0;Jornada_Tech;;Resolvido;19/jun/23 9:30 AM;JTSP5
 Story;EDP-929;969770;Conectores Search JIRA;Concluída;1.0;Jornada_Tech;;Resolvido;19/jun/23 8:58 AM;JTSP5
 Story;EDP-904;968011;Cancelamento do Workflow;Concluída;2.0;Jornada_Tech;;Resolvido;16/jun/23 2:05 PM;JTSP5
-Story;EDP-869;961401;Coleta de evidências GMUD PRD;Concluída;;Jornada_Tech;;Resolvido;22/mai/23 3:42 PM;Escritório_de_Processos_-_S25
-Story;EDP-569;883521;Portfólio Review e Big Room;Concluída;2.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;Escritório_de_Processos_-_S18
-Story;EDP-554;880362;Teste e Homologação;Concluída;2.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;Escritório_de_Processos_-_S18
-Story;EDP-552;880355;Desenvolvimento;Concluída;2.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;Escritório_de_Processos_-_S18
-Story;EDP-551;880352;Refinamento;Concluída;2.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;Escritório_de_Processos_-_S18
-Story;EDP-550;880343;Setup;Concluída;2.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;Escritório_de_Processos_-_S18
-Story;EDP-549;880339;Aprovação;Concluída;5.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;Escritório_de_Processos_-_S18
-Story;EDP-548;880332;Discovery e Design;Concluída;2.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;Escritório_de_Processos_-_S18
-Story;EDP-547;880330;Create;Concluída;3.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;Escritório_de_Processos_-_S18
-Story;EDP-502;854891;Listar cases;Concluída;;Jornada_Tech;;Resolvido;04/jan/23 2:28 PM;Escritório_de_Processos_-_S16
-Story;EDP-501;854870;Implantar;Concluída;;Jornada_Tech;;Resolvido;04/jan/23 2:28 PM;Escritório_de_Processos_-_S16
-Story;EDP-500;854868;Aprovar arquitetura implantação;Concluída;;Jornada_Tech;;Resolvido;04/jan/23 2:28 PM;Escritório_de_Processos_-_S16
-Story;EDP-499;854866;Desenvolver e testar;Concluída;;Jornada_Tech;;Resolvido;04/jan/23 2:28 PM;Escritório_de_Processos_-_S16
-Story;EDP-498;854862;Desenhar arquitetura;Concluída;;Jornada_Tech;;Resolvido;04/jan/23 2:28 PM;Escritório_de_Processos_-_S16
-Story;EDP-497;854858;Planejar feature;Concluída;;Jornada_Tech;;Resolvido;04/jan/23 2:28 PM;Escritório_de_Processos_-_S16
-Story;EDP-496;854857;Cadastrar feature;Concluída;;Jornada_Tech;;Resolvido;04/jan/23 2:28 PM;Escritório_de_Processos_-_S16
+Story;EDP-869;961401;Coleta de evidências GMUD PRD;Concluída;;Jornada_Tech;;Resolvido;22/mai/23 3:42 PM;JTSP25
+Story;EDP-569;883521;Portfólio Review e Big Room;Concluída;2.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;JTSP18
+Story;EDP-554;880362;Teste e Homologação;Concluída;2.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;JTSP18
+Story;EDP-552;880355;Desenvolvimento;Concluída;2.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;JTSP18
+Story;EDP-551;880352;Refinamento;Concluída;2.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;JTSP18
+Story;EDP-550;880343;Setup;Concluída;2.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;JTSP18
+Story;EDP-549;880339;Aprovação;Concluída;5.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;JTSP18
+Story;EDP-548;880332;Discovery e Design;Concluída;2.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;JTSP18
+Story;EDP-547;880330;Create;Concluída;3.0;Jornada_Tech;;Resolvido;06/fev/23 10:28 AM;JTSP18
+Story;EDP-502;854891;Listar cases;Concluída;;Jornada_Tech;;Resolvido;04/jan/23 2:28 PM;JTSP16
+Story;EDP-501;854870;Implantar;Concluída;;Jornada_Tech;;Resolvido;04/jan/23 2:28 PM;JTSP16
+Story;EDP-500;854868;Aprovar arquitetura implantação;Concluída;;Jornada_Tech;;Resolvido;04/jan/23 2:28 PM;JTSP16
+Story;EDP-499;854866;Desenvolver e testar;Concluída;;Jornada_Tech;;Resolvido;04/jan/23 2:28 PM;JTSP16
+Story;EDP-498;854862;Desenhar arquitetura;Concluída;;Jornada_Tech;;Resolvido;04/jan/23 2:28 PM;JTSP16
+Story;EDP-497;854858;Planejar feature;Concluída;;Jornada_Tech;;Resolvido;04/jan/23 2:28 PM;JTSP16
+Story;EDP-496;854857;Cadastrar feature;Concluída;;Jornada_Tech;;Resolvido;04/jan/23 2:28 PM;JTSP16
